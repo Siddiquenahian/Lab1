@@ -4,7 +4,7 @@
 #include "stdio.h"
 
 using namespace std;
-int main()
+void main()
 {
     string s;
     char str[100];
